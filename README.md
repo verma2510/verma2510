@@ -1,7 +1,7 @@
 <h1 align="center">Hey!, I'm Aman Verma</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=verma2510&label=Profile%20views&color=0e75b6&style=flat" alt="verma2510" /> <img src="https://github-profile-trophy.vercel.app/?username=verma2510" alt="verma2510" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verma2510&label=Profile%20views&color=0e75b6&style=flat" alt="verma2510" /> <img src="https://github-profile-trophy.vercel.app/?username=verma2510" alt="verma2510" /></a> <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952mx5fnyj7hq7ppxf31pxw7ls70tt2drtvsxikcrl1&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="verma2510" align="right"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://aman-verma-portfolio.netlify.app/](https://aman-verma-portfolio.netlify.app/)
 
 - ⚡ Fun fact **🐙 I push more to GitHub than I push to the gym.**
-<img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952mx5fnyj7hq7ppxf31pxw7ls70tt2drtvsxikcrl1&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="verma2510" align="right"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-verma-96802622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-verma-96802622b" height="30" width="40" /></a>
