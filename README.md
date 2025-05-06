@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verma2510&label=Profile%20views&color=0e75b6&style=flat" alt="verma2510" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma2510" alt="verma2510" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verma2510" alt="verma2510" /></a> <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952mx5fnyj7hq7ppxf31pxw7ls70tt2drtvsxikcrl1&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="verma2510" align="right" /> </p>
 
 - 🔭 I’m currently working on **HealthCare App**
 
