@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aman Verma and I'm a MERN Stack Developer</h2>
+<h2 align="left">Heyy! my name is Aman Verma and I'm a MERN Stack Developer</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952mx5fnyj7hq7ppxf31pxw7ls70tt2drtvsxikcrl1&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
