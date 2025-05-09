@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **verma.aman1008@gmail.com**
 
-- 📄 Know about my experiences [https://aman-verma-portfolio.netlify.app/](https://aman-verma-portfolio.netlify.app/)
+- 📄 Know about my experiences and can connect with me  [https://aman-verma-portfolio.netlify.app/](https://aman-verma-portfolio.netlify.app/)
 
 - ⚡ Fun fact **🐙 I push more to GitHub than I push to the gym.**
 
