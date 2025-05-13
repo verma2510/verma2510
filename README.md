@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/verma2510](https://github.com/verma2510)
 
-- 💬 Ask me about **React.js, Node.js, Python, MongoDB**
+- 💬 Ask me about **React.js, Node.js, JavaScript, Tailwind CSS, Python, MongoDB**
 
 - 📫 How to reach me **verma.aman1008@gmail.com**
 
