@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 ## 🔭 I’m currently working on **HealthCare App**
-- 🌱 I’m currently learning **NextJS**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+# 🌱 I’m currently learning **NextJS**
+#### 👯 I’m looking to collaborate on **Full Stack Projects**
 - 👨‍💻 All of my projects are available at: [github.com/verma2510](https://github.com/verma2510)
 - 💬 Ask me about **React.js, Node.js, JavaScript, Tailwind CSS, Python, MongoDB**
 - 📫 How to reach me: **verma.aman1008@gmail.com**
