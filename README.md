@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-
+##
 - 🔭 I’m currently working on **HealthCare App**
 - 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
@@ -23,7 +23,7 @@
 - 📫 How to reach me: **verma.aman1008@gmail.com**
 - 📄 Know more about me: [My Portfolio](https://aman-verma-portfolio.netlify.app/)
 - ⚡ Fun fact: **🐙 I push more to GitHub than I push to the gym.**
-
+##
 ---
 
 ### 🤝 Connect with Me
