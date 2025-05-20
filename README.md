@@ -21,7 +21,7 @@
 #### - 💬 Ask me about **React.js, Node.js, JavaScript, Tailwind CSS, MongoDB, Python**
 #### - 📫 How to reach me: **verma.aman1008@gmail.com**
 #### - 📄 Know more about me: [My Portfolio](https://aman-verma-portfolio.netlify.app/)
-#### - ⚡ Fun fact: **🐙 I push more to GitHub than I push to the gym.**
+#### - ⚡ Fun fact: **🐙 I push more to GitHub than I push to the Gym.**
 ---
 
 ### 🤝 Connect with Me
