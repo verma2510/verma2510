@@ -18,7 +18,7 @@
 #### - 🌱 I’m currently learning **NextJS**
 #### - 👯 I’m looking to collaborate on **Full Stack Projects**
 #### - 👨‍💻 All of my projects are available at: [github.com/verma2510](https://github.com/verma2510)
-#### - 💬 Ask me about **React.js, Node.js, JavaScript, Tailwind CSS, MongoDB, Python**
+#### - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, Tailwind CSS, MongoDB, Python**
 #### - 📫 How to reach me: **verma.aman1008@gmail.com**
 #### - 📄 Know more about me: [My Portfolio](https://aman-verma-portfolio.netlify.app/)
 #### - ⚡ Fun fact: **🐙 I push more to GitHub than I push to the Gym.**
