@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 About Me
-#### - 🔭 I’m currently working on **HealthCare App**
+#### - 🔭 I’m currently working on **HealthCare App and a Company's Website**
 #### - 🌱 I’m currently learning **NextJS and PostgreSQL**
 #### - 👯 I’m looking to collaborate on **Full Stack Projects**
 #### - 👨‍💻 All of my projects are available at: [github.com/verma2510](https://github.com/verma2510)
