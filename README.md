@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Aman Verma</h1>
+<h1 align="center">I'm Aman Verma</h1>
 <h3 align="center">A passionate MERN Stack Developer from Mumbai, India</h3>
 <h4 align="center">With 1+ years of experience<h4>
 
